@@ -269,6 +269,53 @@
             "elo": "2999"
         }
     ],
+    "oSee": [
+        {
+            "_id": {
+                "matchId": "653c830db4bac7000708ef71",
+                "playerId": "faf7743e-7e28-4426-ac67-1dba6bbaccd1"
+            },
+            "created_at": 1698464525587,
+            "updated_at": 1698464615772,
+            "i9": "10",
+            "nickname": "oSee",
+            "i10": "1",
+            "i13": "16",
+            "i15": "0",
+            "i6": "38",
+            "i14": "5",
+            "i7": "10",
+            "i16": "0",
+            "i8": "26",
+            "playerId": "faf7743e-7e28-4426-ac67-1dba6bbaccd1",
+            "c2": "1.46",
+            "c3": "0.9",
+            "c4": "42",
+            "c1": "1",
+            "i19": "10",
+            "teamId": "3773b47d-65dd-4e12-95e2-5a8e763e6c84",
+            "i3": "6",
+            "i4": "6",
+            "i5": "team_cbass",
+            "premade": false,
+            "c5": "22",
+            "bestOf": "2",
+            "competitionId": "3aced33b-f21c-450c-91d5-10535164e0ab",
+            "date": 1698464525000,
+            "game": "cs2",
+            "gameMode": "5v5",
+            "i0": "NA",
+            "i1": "de_mirage",
+            "i12": "42",
+            "i18": "20 / 22",
+            "i2": "3773b47d-65dd-4e12-95e2-5a8e763e6c84",
+            "matchId": "1-ad7121e5-7570-4549-861b-a77df4d579de",
+            "matchRound": "1",
+            "played": "1",
+            "status": "APPLIED",
+            "elo": "3160"
+        }
+    ],
     "s1mple": [
         {
             "_id": {
