@@ -942,6 +942,53 @@
             "status": "APPLIED"
         }
     ],
+    "-iM": [
+        {
+            "_id": {
+                "matchId": "653cf19eb4bac7000708f738",
+                "playerId": "09701d83-187e-41e6-997d-a50b3e8d4d38"
+            },
+            "created_at": 1698492830166,
+            "updated_at": 1698492922757,
+            "i9": "3",
+            "nickname": "-iM",
+            "i10": "1",
+            "i13": "14",
+            "i15": "0",
+            "i6": "21",
+            "i14": "3",
+            "i7": "5",
+            "i16": "0",
+            "i8": "6",
+            "playerId": "09701d83-187e-41e6-997d-a50b3e8d4d38",
+            "c2": "3.5",
+            "c3": "1.24",
+            "c4": "67",
+            "c1": "1",
+            "i19": "0",
+            "teamId": "d8941e13-c045-4342-8a06-b8f0aeb379e1",
+            "i3": "10",
+            "i4": "3",
+            "i5": "team_MoDo-",
+            "premade": false,
+            "c5": "13",
+            "bestOf": "2",
+            "competitionId": "f4148ddd-bce8-41b8-9131-ee83afcdd6dd",
+            "date": 1698492829000,
+            "game": "cs2",
+            "gameMode": "5v5",
+            "i0": "EU",
+            "i1": "de_mirage",
+            "i12": "17",
+            "i18": "4 / 13",
+            "i2": "d8941e13-c045-4342-8a06-b8f0aeb379e1",
+            "matchId": "1-7a25953d-10d3-457e-ab40-b734b65a042f",
+            "matchRound": "1",
+            "played": "1",
+            "status": "APPLIED",
+            "elo": "3098"
+        }
+    ],
     "Perfecto": [
         {
             "_id": {
