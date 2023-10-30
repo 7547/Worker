@@ -1,0 +1,49 @@
+{
+    "-iM": [
+        {
+            "_id": {
+                "matchId": "653fdfbd6c11720007a9880c",
+                "playerId": "09701d83-187e-41e6-997d-a50b3e8d4d38"
+            },
+            "created_at": 1698684861677,
+            "updated_at": 1698684951675,
+            "i9": "3",
+            "nickname": "-iM",
+            "i10": "1",
+            "i13": "14",
+            "i15": "0",
+            "i6": "34",
+            "i14": "1",
+            "i7": "8",
+            "i16": "0",
+            "i8": "20",
+            "playerId": "09701d83-187e-41e6-997d-a50b3e8d4d38",
+            "c2": "1.7",
+            "c3": "1.13",
+            "c4": "41",
+            "c1": "1",
+            "i19": "4",
+            "teamId": "0740933a-58db-419a-b4c8-301f32c66a5c",
+            "i3": "5",
+            "i4": "7",
+            "i5": "team_Ed1m--",
+            "premade": false,
+            "c5": "16",
+            "bestOf": "2",
+            "competitionId": "f4148ddd-bce8-41b8-9131-ee83afcdd6dd",
+            "date": 1698684861000,
+            "game": "cs2",
+            "gameMode": "5v5",
+            "i0": "EU",
+            "i1": "de_mirage",
+            "i12": "30",
+            "i18": "14 / 16",
+            "i2": "0740933a-58db-419a-b4c8-301f32c66a5c",
+            "matchId": "1-78a21f67-b4cf-4891-9ab1-d1ae6827ee81",
+            "matchRound": "1",
+            "played": "1",
+            "status": "APPLIED",
+            "elo": "3196"
+        }
+    ]
+}
